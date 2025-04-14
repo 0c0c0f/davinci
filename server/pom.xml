@@ -20,7 +20,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <skipTests>true</skipTests>
-        <elasticsearch.version>7.6.1</elasticsearch.version>
+        <elasticsearch.version>7.17.8</elasticsearch.version>
         <graalvm.version>20.0.0</graalvm.version>
     </properties>
 
@@ -401,7 +401,7 @@
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml</artifactId>
-            <version>4.1.2</version>
+            <version>5.4.0</version>
         </dependency>
 
         <!--oracle -->
